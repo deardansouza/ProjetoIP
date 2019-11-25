@@ -1,2 +1,4 @@
-# ProjetoIP
-Jogo de Introdução a Programação
+# Jogo
+Projeto para Introdução a Programação.
+
+## Github page under construction
